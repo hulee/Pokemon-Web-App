@@ -1,0 +1,46 @@
+.PokemonList {
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    overflow: scroll;
+}
+
+.PokeBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+    width: 120px;
+    height: 150px;
+    margin: 10px;
+    box-shadow: 0 8px 38px rgba(133, 133, 133, 0.3), 0 5px 12px rgba(133, 133, 133,0.22);
+    background-color: white;
+}
+
+.PokeInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: flex-start;
+    border-style: solid;
+    border-color: black;
+}
+
+.PokeImg {
+    border-style: solid;
+    border-color: black;
+}
+
+.InfoBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+    border-style: solid;
+    border-color: black;
+}

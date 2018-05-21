@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "pokemon-web-app"
+		},
+	],
+	"settings": 
+		{
+			"javascript.suggestionActions.enabled": false
+		}
+}
